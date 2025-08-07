@@ -36,7 +36,8 @@
       ],
       "react-native-vision-camera",
       "expo-web-browser",
-      "expo-font"
+      "expo-font",
+      "expo-barcode-scanner"
     ],
     "experiments": {
       "typedRoutes": true
