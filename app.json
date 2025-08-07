@@ -35,7 +35,8 @@
         }
       ],
       "react-native-vision-camera",
-      "expo-web-browser"
+      "expo-web-browser",
+      "expo-font"
     ],
     "experiments": {
       "typedRoutes": true
